@@ -22,8 +22,8 @@ class WelcomePage extends StatelessWidget {
       jurusan: "Teknik Informatika",
       email: "jamananip@gmail.com",
       telepon: "0852-8406-5425",
-      hobi: ["Memancing", "berkuda", "mengumpulkan pahala"],
-      skills: ["Flutter", "Mikrotik", "network", "javva"],
+      hobi: ["Memancing", "berkuda", "berdiri"],
+      skills: ["Flutter", "Mikrotik", "Cisco", "javva"],
       status: StatusMahasiswa.aktif,
       foto: "assets/images/profile.jpg",
     );
