@@ -72,7 +72,7 @@ class WelcomePage extends StatelessWidget {
             const SizedBox(height: 10),
 
             Text(
-              "Portfolio Mahasiswa",
+              "Saya Anif",
               style: TextStyle(
                 fontSize: 18,
                 color: cs.onSurface.withOpacity(0.7),

@@ -14,12 +14,12 @@ class AboutMeCard extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         children: [
           Text(
-            "About Me",
+            "Tentang Saya",
             style: Theme.of(context).textTheme.titleLarge,
           ),
           const SizedBox(height: 16),
           Text(
-            "Saya ${user.nama} bisa sagala bisa di bisa-bisa, Tapi alhamdulillah bisa .",
+            "Saya ${user.nama} bisa sagala bisa di bisa-bisa, Tapi alhamdulillah bisa.",
             style: Theme.of(context).textTheme.bodyMedium,
             textAlign: TextAlign.center,
           ),
